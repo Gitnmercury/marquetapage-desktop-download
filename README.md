@@ -68,7 +68,7 @@ les services en ligne.
 ![Fiche de paie en PDF](captures/07-pdf-masquer-une-zone.png)
 
 **Une fiche de paie en PDF.** Un IBAN, un numéro de sécurité sociale : dessinez un rectangle ou un rond sur la page, la zone
-est noircie pour de bon dans la copie. Les fichiers Word se traitent de la même façon (convertis sur votre ordinateur).
+est pixellisée (gros carrés) pour de bon dans la copie. Les fichiers Word se traitent de la même façon (convertis sur votre ordinateur).
 
 ## Les outils et l'aide
 

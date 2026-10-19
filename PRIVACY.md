@@ -1,4 +1,4 @@
-# Confidentialité de Filigrane mes documents
+# Confidentialité de MarqueTaPage Desktop
 
 **En bref : vos documents ne quittent pas votre ordinateur.** Pas de compte, pas de cloud, pas de télémétrie, pas
 de publicité, pas de mise à jour automatique.

@@ -1,4 +1,4 @@
-# Privacy of Filigrane mes documents
+# Privacy of MarqueTaPage Desktop
 
 **In short: your documents never leave your computer.** No account, no cloud, no telemetry, no advertising, no
 automatic update.

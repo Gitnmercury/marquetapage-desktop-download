@@ -1,4 +1,4 @@
-# Licence de Filigrane mes documents
+# Licence de MarqueTaPage Desktop
 
 **Libre d'utilisation, sous réserve.**
 
@@ -8,7 +8,7 @@ Siège : 200 rue de la Croix Nivert, 75015 Paris
 Contact : apps@belkacem.fr
 Demandes de licence : licence@ohtna.fr
 
-Le logiciel Filigrane mes documents (code source, exécutables, interface, textes et éléments graphiques,
+Le logiciel MarqueTaPage Desktop (code source, exécutables, interface, textes et éléments graphiques,
 ci-après « le Logiciel ») est la propriété d'Anthony BELKACEM EI (ci-après « le Propriétaire »).
 
 ## 1. Droits accordés

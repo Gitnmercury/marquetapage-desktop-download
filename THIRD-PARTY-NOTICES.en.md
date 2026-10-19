@@ -1,6 +1,6 @@
 # Third-party components
 
-Filigrane mes documents belongs to Anthony BELKACEM EI (see LICENSE.md). It relies on the following components, which
+MarqueTaPage Desktop belongs to Anthony BELKACEM EI (see LICENSE.md). It relies on the following components, which
 remain the property of their holders and are subject to their own licenses.
 
 | Component | Owner | License |

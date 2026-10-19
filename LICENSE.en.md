@@ -1,4 +1,4 @@
-# License of Filigrane mes documents
+# License of MarqueTaPage Desktop
 
 *Courtesy translation. The French text (LICENSE.md) prevails in case of difference.*
 
@@ -10,7 +10,7 @@ Registered office: 200 rue de la Croix Nivert, 75015 Paris, France
 Contact: apps@belkacem.fr
 License requests: licence@ohtna.fr
 
-The software Filigrane mes documents (source code, executables, interface, texts and graphic elements, hereinafter
+The software MarqueTaPage Desktop (source code, executables, interface, texts and graphic elements, hereinafter
 "the Software") is the property of Anthony BELKACEM EI (hereinafter "the Owner").
 
 ## 1. Rights granted

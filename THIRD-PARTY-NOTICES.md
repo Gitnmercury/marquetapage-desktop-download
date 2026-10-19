@@ -1,6 +1,6 @@
 # Composants tiers
 
-Filigrane mes documents appartient à Anthony BELKACEM EI (voir LICENSE.md). Il s'appuie sur les composants
+MarqueTaPage Desktop appartient à Anthony BELKACEM EI (voir LICENSE.md). Il s'appuie sur les composants
 suivants, qui restent la propriété de leurs détenteurs et soumis à leurs propres licences.
 
 | Composant | Propriétaire | Licence |

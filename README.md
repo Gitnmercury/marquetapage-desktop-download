@@ -109,4 +109,4 @@ Libre d'utilisation **pour les particuliers, à titre privé** ; vente, location
 modifiées diffusées et usage professionnel sont soumis à l'accord écrit du propriétaire. Texte complet : [LICENSE.md](LICENSE.md)
 ([English courtesy translation](LICENSE.en.md)) ; composants tiers : [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
-Éditeur : Anthony BELKACEM EI. Questions : apps@belkacem.fr · Licences : licence@ohtna.fr
+Éditeur : Anthony BELKACEM EI. Questions : apps@ohtna.fr · Licences : licence@ohtna.fr

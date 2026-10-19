@@ -5,7 +5,7 @@
 Copyright (c) 2026 Anthony BELKACEM, entrepreneur individuel (EI)
 SIREN 539 825 547 - SIRET 539 825 547 00042
 Siège : 200 rue de la Croix Nivert, 75015 Paris
-Contact : apps@belkacem.fr
+Contact : apps@ohtna.fr
 Demandes de licence : licence@ohtna.fr
 
 Le logiciel MarqueTaPage Desktop (code source, exécutables, interface, textes et éléments graphiques,
@@ -42,7 +42,7 @@ Sans l'accord écrit et préalable du Propriétaire, il est interdit de :
 - supprimer ou modifier les mentions de propriété, de licence et de contact.
 
 Toute demande de licence ou d'autorisation (usage professionnel, redistribution, partenariat,
-prestation) : licence@ohtna.fr. Questions générales : apps@belkacem.fr.
+prestation) : licence@ohtna.fr. Questions générales : apps@ohtna.fr.
 
 ## 3. Propriété intellectuelle
 
